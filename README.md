@@ -6,3 +6,6 @@
 int main (void) {
   printf("Hello World");
 }
+*음식
+ * 떡볶이
+ * 김밥
